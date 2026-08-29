@@ -1,7 +1,7 @@
 {
   "id": "companion-chat",
   "displayName": "Companion Chat",
-  "description": "Opens a fresh companion thread beside your current BB conversation, with independent provider and model selection and the current worktree preselected.",
+  "description": "Opens a fresh hidden thread beside the current BB conversation with independent provider and model selection, keeping it out of the sidebar unless the user later makes it visible.",
   "icon": "SideChat",
   "tags": ["agents", "interface", "providers", "threads", "workspace"],
   "author": {
